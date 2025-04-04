@@ -1,6 +1,6 @@
 # 🚀 My Java Journey
 
-![Java Banner](https://raw.githubusercontent.com/<your-username>/<your-repo>/main/assets/java-banner.png)
+![Java Banner](https://th.bing.com/th/id/OIP.wyY7fa7FHVIsdcoGwdybXQHaHa?w=186&h=187&c=7&r=0&o=5&dpr=1.3&pid=1.7)
 
 Welcome to **_My Java Repository_** — a digital journal capturing my entire journey of learning **Java programming**, from the basics to advanced concepts including **OOPs**, **Data Structures & Algorithms**, **Projects**, and much more!  
 Whether you're a beginner looking to learn, or a developer looking to revise, you're in the right place. 🧠💻
@@ -23,8 +23,9 @@ Whether you're a beginner looking to learn, or a developer looking to revise, yo
 > _“You don't understand something until you can explain it simply.”_ – Albert Einstein
 
 This repo is my way of:
+- 🚩 Measuring my entire jouney by saving it.
 - 💡 Reinforcing my learning by practicing.
-- 📖 Helping others with clean, well-commented code.
+- 📖 Helping others with clean, well-commented code to grow together.
 - 🚀 Building a strong base in Java and problem-solving.
 
 ---
@@ -46,16 +47,6 @@ This repo is my way of:
 
 ---
 
-## 📸 Sneak Peek
-
-### 📍 Code Preview  
-![Code Example](https://raw.githubusercontent.com/<your-username>/<your-repo>/main/assets/code-preview.png)
-
-### 🧩 Problem Solving in Action  
-![DSA Solving](https://raw.githubusercontent.com/<your-username>/<your-repo>/main/assets/dsa-problem-solving.png)
-
----
-
 ## 🤝 Contributing
 
 Want to collaborate, give feedback, or share problems to solve?  
@@ -65,9 +56,9 @@ Feel free to `fork`, `star`, and `open issues`! Contributions are always welcome
 
 ## 📬 Connect With Me
 
-- 📧 Email: yourname@example.com  
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🐦 [Twitter](https://twitter.com/yourprofile)
+- 📧 Email: work.shrikant.lala@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/shrikant-lala-1395672a8/)  
+- 🐦 [instagram](https://www.instagram.com/shrikant_laoffical/)
 
 ---
 
