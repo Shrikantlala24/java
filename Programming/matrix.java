@@ -1,4 +1,4 @@
-import java.*;
+import java.util.*;
 import java.lang.reflect.Array;
 
 public class matrix {
@@ -9,10 +9,11 @@ public class matrix {
             {7, 8, 9}
         };
 
-        for(int i = 0; i < mat1.length; i++) {
-            for (int j=0; j < mat1.length(); j++) {
-                System.out.print(mat1[i][j] + " ");
-            }
+        System.out.println(mat1);
+        // for(int i = 0; i < mat1.length; i++) {
+        //     for (int j=0; j < mat1.length(); j++) {
+        //         System.out.print(mat1[i][j] + " ");
+        //     }
 
     }
 
