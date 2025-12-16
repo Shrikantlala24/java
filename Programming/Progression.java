@@ -17,6 +17,7 @@ public class Progression {
             
         }
 
+
         sc.close();
     }
 }
