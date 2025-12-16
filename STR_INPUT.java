@@ -13,6 +13,8 @@ public class STR_INPUT {
     System.out.println("String: " + str);
     System.out.println("Double: "+ dou);   
     System.out.println("Int: "+int1);
+
+    sc.close();
     }
 }
 
