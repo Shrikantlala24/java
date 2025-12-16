@@ -7,16 +7,16 @@ public class PALINDROME {
         System.out.println("Enter any string: ");
         String str = sc.next();
 
-        String rev = "";
-
         /*  here is the logic for reversing a string
+        String rev = "";
+        
         for(int i = str.length() - 1; i >= 0;i--) {
             rev = rev + str.charAt(i);
         } */
 
         // another way to reverse a string using StringBuilder
 
-String rev = new StringBuilder().reverse()
+String rev = new StringBuilder(str).reverse().toString();
 
         if (rev.equals(str)){
             System.out.println("PALINDROME");
