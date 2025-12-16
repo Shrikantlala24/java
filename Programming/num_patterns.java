@@ -25,7 +25,7 @@ public class num_patterns {
         
         for(int i =5; i >= 0; i--) {
             for(int j = i; j >= 0; j--) {
-                System.out.print("* ");
+                System.out.print("*");
             }
             System.err.println("");
         }
