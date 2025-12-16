@@ -11,5 +11,16 @@ public class Main {
         char ch = 'A';
         byte b = 100;
         boolean bool = true;
+
+        System.out.println("Integer value: " + a);
+        System.out.println("Float value: " + f);        
+
+        System.out.println("Double value: " + d);
+        System.out.println("Long value: " + l);
+        System.out.println("Character value: " + ch);
+        System.out.println("Byte value: " + b);
+        System.out.println("Boolean value: " + bool);
+
+        
     }
 }

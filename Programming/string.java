@@ -13,8 +13,8 @@ public class string {
     System.out.println(a);
     String[] parts = str1.split(" ");
     
-    // for (int i = 0; i < parts.length; i++) {
-    //     System.out.println(parts[i]);
-    // }
+    for (int i = 0; i < parts.length; i++) {
+        System.out.println(parts[i]);
+    }
     }  
 }

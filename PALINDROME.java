@@ -24,5 +24,7 @@ String rev = new StringBuilder(str).reverse().toString();
             System.out.println("NOT PALINDROME");
         }
 
+
+        sc.close();
     }
 }
