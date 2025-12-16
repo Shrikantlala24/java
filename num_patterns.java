@@ -1,6 +1,6 @@
 public class num_patterns {
     public static void main(String[] args) {
-        int n = 0;
+        int n = 0; 
 
         System.out.println("---- no. sequence in each row ----");
         
