@@ -1,6 +1,7 @@
 package Strings;
 
-public class Rev_String {
+public class _1_Rev_String {
+    
     public static void main(String[] args) {
         String str = "Hello meow **";
         String str2  = "Programming";

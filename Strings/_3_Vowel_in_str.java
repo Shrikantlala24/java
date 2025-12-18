@@ -1,5 +1,5 @@
 package Strings;
-public class Vowel_in_str {
+public class _3_Vowel_in_str {
     
     public static void main(String[] args) {
         String str = "hEllO nigger, motherfucker";

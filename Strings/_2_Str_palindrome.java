@@ -1,7 +1,7 @@
 package Strings;
 
-public class Str_palindrome {
-    
+public class _2_Str_palindrome {
+
     public static void main(String[] args) {
         
         String str = "madam";
