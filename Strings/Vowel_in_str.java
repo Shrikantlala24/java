@@ -1,3 +1,4 @@
+package Strings;
 public class Vowel_in_str {
     
     public static void main(String[] args) {

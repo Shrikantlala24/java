@@ -1,3 +1,4 @@
+package Strings;
 
 public class Str_palindrome {
     
