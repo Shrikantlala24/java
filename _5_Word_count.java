@@ -1,4 +1,4 @@
-public class Word_count {
+public class _5_Word_count {
     public static void main(String[] args) {
 
         String str = "Hello bro take this gig";

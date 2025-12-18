@@ -1,4 +1,4 @@
-public class Remove_spaces {
+public class _4_Remove_spaces {
     public static void main(String[] args) {
         
         String str = "   Hello bro take this gig   ";
