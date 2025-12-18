@@ -1,3 +1,6 @@
+package Strings;
+
+
 public class _5_Word_count {
     public static void main(String[] args) {
 

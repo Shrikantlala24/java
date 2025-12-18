@@ -1,3 +1,6 @@
+package Strings;
+
+
 public class _4_Remove_spaces {
     public static void main(String[] args) {
         
