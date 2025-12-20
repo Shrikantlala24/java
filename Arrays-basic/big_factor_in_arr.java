@@ -2,10 +2,16 @@
 
 public class big_factor_in_arr {
     public static void main(String[] args) {
+/*      Alogrithm :-
+        1. har element ko acces kar
+        2. 
+*/
+        
+//      input declare        
         int[] arr = {10,15,21,7,9};
         int largest_factor = 0;
         int num_w_lf = 0;
-
+// 
         for(int a : arr) {
             System.out.printf("\n--- factor of %d ---\n",a);
             for(int i = a-1;i >0;i--) {
