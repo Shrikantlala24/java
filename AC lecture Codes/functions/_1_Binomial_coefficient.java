@@ -1,6 +1,6 @@
 // package AC lecture Codes.functions;
 
-public class Binomial_coefficient {
+public class _1_Binomial_coefficient {
     public static int facto(int a) {
         int f = 1;
         for (int i = 1; i <= a; i++) {

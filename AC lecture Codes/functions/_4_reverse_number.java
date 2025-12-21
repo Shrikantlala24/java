@@ -1,6 +1,6 @@
 // package AC lecture Codes.functions;
 
-public class reverse_number {
+public class _4_reverse_number {
     public static int reverseNumber(int num) {
         int rev = 0;
         // int numcopy = num;

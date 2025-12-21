@@ -1,6 +1,6 @@
 // package AC lecture Codes.functions;
 
-public class func_overloading {
+public class _2_func_overloading {
     public static int sum(int a , int b) {
         return a+b;
     }

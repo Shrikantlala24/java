@@ -1,6 +1,6 @@
 // package AC lecture Codes.functions;
 
-public class optimized_prime_no {
+public class _3_optimized_prime_no {
     public static boolean isPrime(int n) {
         boolean prime = true;
         for(int i = 2; i*i <= n ; i++) {
