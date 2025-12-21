@@ -26,3 +26,9 @@ public class Stock_problem {
         System.out.println(selling_option - buying_option);
     }
 }
+
+
+// 1. problems
+// 2. appraches
+// 3. new problems
+// 
