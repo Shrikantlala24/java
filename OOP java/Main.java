@@ -89,5 +89,7 @@ public class Main {
                     System.out.println("invalid choice");
             }
         }
+
+        sc.close();
     }
 }
