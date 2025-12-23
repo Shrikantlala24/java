@@ -1,6 +1,8 @@
 // package OOP java;
 // import java.util.*;
 
+// import miscellaneous.student;
+
 class student{
     private int _marks ;
 
