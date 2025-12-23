@@ -12,6 +12,7 @@ public class media_player {
             video_player v1 = new video_player();
             v1.play();
         }
+        sc.close();
     }
 }
 
