@@ -1,3 +1,4 @@
+package miscellaneous;
 public class tough {
     public static void main(String[] args) {
 

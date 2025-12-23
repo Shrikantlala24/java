@@ -1,3 +1,4 @@
+package miscellaneous;
 import java.util.Scanner;
 
 public class _1_Vehicle {
