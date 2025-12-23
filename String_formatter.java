@@ -4,7 +4,7 @@ public class String_formatter {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
-        int n = sc.nextInt();
+        // int n = sc.nextInt();
         
         String a1 = sc.nextLine();
         String[] arr1 =  a1.split(" ");
