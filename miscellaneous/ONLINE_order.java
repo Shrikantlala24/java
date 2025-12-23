@@ -10,6 +10,8 @@ public class ONLINE_order {
         DiscountOrder order1 = new DiscountOrder(item, order_amt);
         double final_amt = order1.applyDiscount();
         System.out.println(final_amt);
+        
+        sc.close();
     }
 }
 
