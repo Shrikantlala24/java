@@ -21,5 +21,6 @@ public class random_game {
 
             // }
         }
+        sc.close();
     }
 }
