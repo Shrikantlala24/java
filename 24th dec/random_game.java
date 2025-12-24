@@ -13,13 +13,13 @@ public class random_game {
         while (attept <4) {
             int num = sc.nextInt();
             attept++;
-            try {
+            // try {
                 
-            }
+            // }
 
-            catch {
-                
-            }
+            // catch {
+
+            // }
         }
     }
 }
