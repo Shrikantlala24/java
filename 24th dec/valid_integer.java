@@ -22,5 +22,7 @@ public class valid_integer {
         catch (NumberFormatException e) {
             System.out.println("Invalid Integer");
         }
+
+        sc.close();
     }
 }
