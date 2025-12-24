@@ -5,7 +5,9 @@ public class valid_integer {
         Scanner sc = new Scanner(System.in);
 
         int n = sc.nextInt();
+
         sc.nextLine();
+        
         String[] test_ip = new String[n];
         for(int i = 0; i < n; i++) {
             test_ip[i] = sc.nextLine();
