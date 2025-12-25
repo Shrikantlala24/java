@@ -13,6 +13,7 @@ class bin_to_dec_string {
         //     num /= 10;
         //     i++;
         // }
+
         int bin = 0;
         int len = n.length();
         
