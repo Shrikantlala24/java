@@ -14,10 +14,11 @@ class bin_to_dec_string {
         //     i++;
         // }
         int bin = 0;
+        int len = n.length();
         
-        for(int i = 0; i < n.length(); i++) {
+        for(int i = len - 1; i >= 0; i--) {
             int num = Integer.parseInt(String.valueOf(n.charAt(i)));
-            bin += num * Math.pow(2,i);
+            bin += num * Math.pow(2,len - 1 -i);
         }
         System.out.println(bin);
     }
