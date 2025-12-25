@@ -16,7 +16,7 @@ class bin_to_dec_string {
         int bin = 0;
         
         for(int i = 0; i < n.length(); i++) {
-            int num = Integer.parseInt(n.charAt(i));
+            int num = Integer.parseInt(String.valueOf(n.charAt(i)));
             bin += num * Math.pow(2,i);
         }
         System.out.println(bin);
