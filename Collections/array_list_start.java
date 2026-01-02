@@ -10,10 +10,10 @@ class array_list_start {
         arr_list.add("mango");
 
         for (String el : arr_list) {
-            System.out.println(el);
+            System.out.print(el + ", ");
         }
 
-        System.out.println(arr_list.get(2));
+        System.out.println("\n" + arr_list.get(2));
         
     }
 }
