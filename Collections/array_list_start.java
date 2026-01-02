@@ -11,8 +11,9 @@ class array_list_start {
 
         for (String el : arr_list) {
             System.out.println(el);
-            
         }
 
+        System.out.println(arr_list.get(2));
+        
     }
 }
