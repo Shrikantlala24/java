@@ -13,6 +13,7 @@ public class bubble_sort {
         
         // int 
         int n = arr.length;
+        // int swaps = 0;
         boolean swapped;
         
         for(int i =0; i < n -1; i++) {
@@ -25,6 +26,10 @@ public class bubble_sort {
                     arr[j+1] = temp;
 
                     swapped = true;
+                //     System.out.printf("%d is swapped with %d\n", arr[j], arr[j+1]);
+                //     System.out.println(Arrays.toString(arr));
+
+                //     swaps++;
                 }
                 
             }
@@ -37,6 +42,7 @@ public class bubble_sort {
         for(int i = 0; i < n; i++) {
             System.out.print(arr[i] + " ");
         }
+        // System.out.println(" \n" + swaps);
 
 
 
