@@ -37,5 +37,9 @@ public class bubble_sort {
         for(int i = 0; i < n; i++) {
             System.out.print(arr[i] + " ");
         }
+
+
+
+        sc.close();
     }
 }
