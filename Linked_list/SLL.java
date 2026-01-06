@@ -6,6 +6,10 @@ public class SLL {
         head.next.next.next = new node(40);
 
         head.display();
+        node ne1 = new node(5);
+        ne1.next = head;
+        head = ne1;
+        head.display();
     }
 }
 
