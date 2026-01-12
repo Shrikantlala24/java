@@ -8,14 +8,20 @@ class Queue_basic {
         q.enqueue(50);
 
         q.display();
-        
+
     }
 }
 
 class queue {
-    int front, rear, capacity;
     int[] arr;
+
+    // thier are two pointers, front and rear.
+
+    int front, rear;
+    int capacity;
     int size;
+    
+    // constructor for initiating queue
     queue(int c) {
         this.capacity = c;
         front = 0;
@@ -72,6 +78,7 @@ class queue {
         }
     }
 
+    // display the queue
     void display() {
         for (int i = front; i <= rear; i++) {
             System.out.print(arr[i] + " ");
