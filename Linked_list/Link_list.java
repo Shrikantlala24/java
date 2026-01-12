@@ -3,3 +3,7 @@ public class Link_list {
         
     }
 }
+
+class node {
+    
+}
